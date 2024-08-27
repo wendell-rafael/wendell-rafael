@@ -65,4 +65,8 @@ Aqui está um resumo das linguagens de programação que utilizo em meus projeto
 
 - **Email:** [wendell.nascimento@ccc.ufcg.edu.br](mailto:wendell.nascimento@ccc.ufcg.edu.br) | [wendellifal@gmail.com](mailto:wendellifal@gmail.com)
 - **Telefone:** +55 (82) 99990-3219
-- **[LinkedIn](https://www.linkedin.com/in/seu-linkedin)** | **[Po
+- **[LinkedIn](https://www.linkedin.com/in/seu-linkedin)** | **[Portfolio](https://seu-portfolio.com)**
+
+---
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Se você está interessado em colaborar ou apenas quer trocar uma ideia sobre tecnologia, sinta-se à vontade para entrar em contato!
