@@ -9,6 +9,7 @@
 ## 🚀 Sobre Mim
 
 Sou um desenvolvedor de software em formação, apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em desenvolvimento mobile e backend, com foco em tecnologias modernas e boas práticas de desenvolvimento. Além disso, possuo sólidos conhecimentos em estrutura de dados e orientação a objetos, o que me permite construir software robusto e escalável.
+Nos momentos de lazer, adoro viajar e explorar novos lugares. Sou um grande fã de futebol, especialmente do Flamengo, e gosto de passar o tempo jogando videogames.
 
 ### 🌟 Especialidades
 
